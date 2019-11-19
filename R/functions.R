@@ -12,7 +12,7 @@ newsquare <- function(x) {
   x^2
 }
 
-#' Title
+#' Cube the input
 #'
 #' @param x
 #'

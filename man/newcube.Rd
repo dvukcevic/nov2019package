@@ -2,7 +2,7 @@
 % Please edit documentation in R/functions.R
 \name{newcube}
 \alias{newcube}
-\title{Title}
+\title{Cube the input}
 \usage{
 newcube(x)
 }
@@ -10,5 +10,5 @@ newcube(x)
 \item{x}{}
 }
 \description{
-Title
+Cube the input
 }
