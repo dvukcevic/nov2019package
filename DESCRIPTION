@@ -1,7 +1,7 @@
 Package: nov2019package
 Title: Example R package for Nov 2019 workshops
 Version: 0.0.0.9000
-Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
+Authors@R: person("Damjan", "Vukcevic", email = "first.last@example.com", role = c("aut", "cre"))
 Description: What the package does (one paragraph).
 Depends: R (>= 3.5.1)
 License: What license is it under?
